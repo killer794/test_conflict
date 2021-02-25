@@ -1,3 +1,5 @@
+cout<<"Hello Form dir1"<<endl
+
 #include <iostream>
 using namespace std;
 int selection () {
