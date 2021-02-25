@@ -1,3 +1,5 @@
+cout<<"From dir2"<<endl;
+
 #include <iostream>
 using namespace std;
 int selection () {
