@@ -1,7 +1,8 @@
-
 cout<<"From dir2"<<endl;
 cout<<"Hello Form dir1"<<endl;
-cout<<"hellow from dir2"<<endl;
+cout<<"From dir2"<<endl;
+cout<<"Hello Form dir1"<<enl;
+cout<<"hello dir3"<<endl;
 
 #include <iostream>
 using namespace std;
