@@ -1,7 +1,8 @@
 cout<<"From dir2"<<endl;
-cout<<"Hello Form dir1"<<endl;
+cout<<"Hello fForm dir1"<<endl;
 cout<<"hello dir3"<<endl;
 
+cout<<"hi";
 #include <iostream>
 using namespace std;
 int selection () {
