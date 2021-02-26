@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-cout<<"From dir2"<<endl;
-cout<<"Hello Form dir1"<<endl
->>>>>>> 74f6837b4f88265ff8640d7da3f5f8ff6a84f55c
 
+cout<<"From dir2"<<endl;
+cout<<"Hello Form dir1"<<enl;
+cout<<"hello dir3"<<endl;
 #include <iostream>
 using namespace std;
 int selection () {
